@@ -1,0 +1,18 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Add Axis 233D Camera",
+                "data": {
+                    "host": "IP Address",
+                    "username": "Username",
+                    "password": "Password",
+                    "http_port": "HTTP Port"
+                }
+            }
+        },
+        "error": {
+            "cannot_connect": "Failed to connect to camera"
+        }
+    }
+}

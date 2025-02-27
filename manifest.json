@@ -1,0 +1,11 @@
+{
+  "domain": "axis233d",
+  "name": "Axis 233D IO Controller",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["requests>=2.25.1"],
+  "config_flow": true,
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
