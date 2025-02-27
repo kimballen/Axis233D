@@ -37,6 +37,4 @@ The following parameters are required:
 - Axis 233D network camera with firmware 5.x or newer
 - `requests>=2.25.1`
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
